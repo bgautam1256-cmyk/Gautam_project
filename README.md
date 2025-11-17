@@ -2,3 +2,4 @@
 This is my first git repository
 <br>
 As i am learning git and github 
+my college name is rec
